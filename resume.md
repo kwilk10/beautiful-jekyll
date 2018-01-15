@@ -1,5 +1,9 @@
-
-============
+---
+layout: page
+title: Resume
+subtitle: Katherine Wilkinson
+use-site-title: true
+---
 
 -------------------     ----------------------------
 | 4061 1/2 Silver Lake Rd |          Linden, MI 48451 |
