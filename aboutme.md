@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
+Hello! My name is Katherine and I am currently pursuing a Master's degree in Applied Statistics at the University of Michigan. Previously, I received my Bachelors Degree in Mathematics from Colorado College in 2015 before working briefly in finance at Umpqua Bank and then joining the Computational Science Department at Bend Research in Bend, Oregon as a Data Collector and Quality Assurance Associate. 
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am interested in all aspects of Applies Statistics, with my primary interests laying in consulting, health, and medicine. I mostly have experience programing in R and am actively learning Python and SQL. As I continue my studies, I welcome any and all opportunities in data analysis that would enable me to grow as a data scientist. I would like to consider myself a puzzle solver, I enjoy using data to answer problems and make people's lives easier.
