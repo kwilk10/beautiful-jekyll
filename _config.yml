@@ -28,7 +28,7 @@ navbar-links:
     - R: "https://github.com/kwilk10"
     - Python: "https://github.com/kwilk10"
     - GitHub Pages: "https://github.com/kwilk10"
-  Author's home: "http://kwilk10.github.io"
+ # Author's home: "http://kwilk10.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -74,11 +74,11 @@ social-network-links:
   rss: true
   email: "kswilk@umich.edu"
   #facebook: 
-  github: Katherine
+  github: kwilk10
   #twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: Katherine
+  linkedin: katherine-wilkinson
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
