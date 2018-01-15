@@ -23,7 +23,7 @@ description: Project and Personal Page
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Resume: "aboutme"
   Programming Projects:
     - R: "https://github.com/kwilk10"
     - Python: "https://github.com/kwilk10"
