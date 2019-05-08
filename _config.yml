@@ -25,6 +25,7 @@ description: Project and Personal Page
 navbar-links:
   Resume: "resume"
   Programming Projects:
+    - Bayesian Analysis - The Bechdel Test: "https://kwilk10.github.io/Bayesian-Analysis-Bechdel-Test/"
     - Machine Learning in R: "https://github.com/kwilk10/Machine-Learning-in-R"
     - Intro to Data Analysis Python: "https://github.com/kwilk10/Data-Analysis-Python"
     - GitHub Pages: "https://github.com/kwilk10"
